@@ -10,7 +10,8 @@ public class HellloWorld1 {
 		int k = 100;
 
 		int c = 69;
-
+		String abc = "CONFLICT...";
+		
 		String msg = "checking for the conflict";
 
    System.out.println("abc ");
