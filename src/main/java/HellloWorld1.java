@@ -10,7 +10,7 @@ public class HellloWorld1 {
 		int k = 100;
 
 		int c = 69;
-
+Integer sb = 500;
 		String msg = "checking for the conflict";
 
    System.out.println("abc ");
