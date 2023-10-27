@@ -10,12 +10,12 @@ public class HellloWorld1 {
 		int k = 100;
 
 		int c = 69;
-
+<<<<<<< HEAD
 Integer sb = 500;
-
+=======
 		String abc = "CONFLICT...";
 		
-
+>>>>>>> 9a990e00823a6569bf9a1a0f9c3eff00d65204a6
 		String msg = "checking for the conflict";
 
    System.out.println("abc ");
