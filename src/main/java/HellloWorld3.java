@@ -26,6 +26,16 @@ Integer sb = 500;
 
 		assertEquals(4, obj.sizeOfStudent());
 	}
+
+@Test
+	public void testAdd1() {
+		obj.add("Himanshu");
+		obj.add("Happy");
+		obj.add("Aman");
+		obj.add("ayushi");
+
+		assertEquals(4, obj.sizeOfStudent());
+	}
 	
 
 }
