@@ -22,4 +22,14 @@ Integer sb = 500;
 
 	}
 
+@Test
+	public void testAdd() {
+		obj.add("ronak");
+		obj.add("prasant");
+		obj.add("aniska");
+		obj.add("ayushi");
+
+		assertEquals(4, obj.sizeOfStudent());
+	}
+
 }
