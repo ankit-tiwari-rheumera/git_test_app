@@ -20,6 +20,14 @@ Integer sb = 500;
 
    System.out.println("abc ");
 
+//to do work
+String s = "Hello from pull";
+		int i = 10;
+		int j  = 12;
+		int k = 100;
+
+		int c = 69;
+
 	}
 
 @Test
