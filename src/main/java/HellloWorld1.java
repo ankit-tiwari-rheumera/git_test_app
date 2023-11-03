@@ -39,5 +39,15 @@ String s = "Hello from pull";
 
 		assertEquals(4, obj.sizeOfStudent());
 	}
+	@Test
+	public void testAdd() {
+		obj.add("ronak");
+		obj.add("prasant");
+		obj.add("aniska");
+		obj.add("ayushi");
+
+		assertEquals(4, obj.sizeOfStudent());
+	}
+
 
 }
